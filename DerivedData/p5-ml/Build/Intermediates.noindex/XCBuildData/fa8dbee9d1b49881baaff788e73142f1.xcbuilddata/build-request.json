@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "c58ea3d7f239e13beccf17ca0552e1400836b368c0bcb80d7ed90a72badb2432"
+    }
+  ],
+  "containerPath" : "/Users/aniketdixit/Desktop/EECS280/p5-ml/p5-ml.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/aniketdixit/Desktop/EECS280/p5-ml/DerivedData/p5-ml/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/aniketdixit/Desktop/EECS280/p5-ml/DerivedData/p5-ml/Build/Products",
+      "derivedDataPath" : "/Users/aniketdixit/Desktop/EECS280/p5-ml/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/aniketdixit/Desktop/EECS280/p5-ml/DerivedData/p5-ml/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/aniketdixit/Desktop/EECS280/p5-ml/DerivedData/p5-ml/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/aniketdixit/Desktop/EECS280/p5-ml/DerivedData/p5-ml/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
